@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 14.03.25
-## Register Number:212224040196
-## Name: MOHAMMED YAASIR Y
+## Register Number:212224040324
+## Name: SRI GOKUL VENKAT
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
